@@ -3,7 +3,7 @@ import requests
 import uuid
 from concurrent.futures import ThreadPoolExecutor
 import threading
-BOT_TOKEN = "7675888732:AAGXgu45Fe8dEutBTd1pwbpYZOLeTGh8VrQ"
+BOT_TOKEN = "8664637350:AAGpDLQwhfER14sdQLlLTSL2501Hm20Tw8k"
 bot = telebot.TeleBot(BOT_TOKEN)
 selected_options = {}
 check_results = {}
